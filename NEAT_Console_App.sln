@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEAT_Console_App", "NEAT_Console_App\NEAT_Console_App.csproj", "{1C557699-515A-41BA-8113-603651CEEF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C557699-515A-41BA-8113-603651CEEF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C557699-515A-41BA-8113-603651CEEF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C557699-515A-41BA-8113-603651CEEF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C557699-515A-41BA-8113-603651CEEF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4846C84E-3CB2-4884-B28B-FF12DEB71861}
+	EndGlobalSection
+EndGlobal
